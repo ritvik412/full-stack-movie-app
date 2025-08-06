@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    /* Ensures that padding and border are included in the element's total width and height */
+  
+  }
+  
+  body {
+    background-color: #131720;
+    font-family: sans-serif;
+    color: white;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    /* overflow property is used to control the behavior of the content that overflows the element's box. */
+    background-color: #131720;
+    padding: 10px;
+  
+  }
+  
+  .topnav a {
+    float: left;
+    /* float left aligns element to left of container */
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    /* would remove underline from links */
+    font-size: 1.2rem;
+    /* rem is relative to the font-size of the root element */
+    text-transform: uppercase;
+  }
+  
+  .topnav .search-container {
+    float: right;
+    /* float right aligns element to right of container */
+  }
+  
+  form {
+    background-color: #151f30;
+    width: 300px;
+    height: 43px;
+    border-radius: 11px;
+    display: flex;
+    /* flexbox is a layout model that allows elements to be arranged in a row or column */
+    align-items: center;
+  
+  }
+  
+  input {
+    /*all: unset;  unset is used to remove all properties from an element */
+    font: 15px system-ui;
+    color: black;
+    height: 100%;
+    padding: 6px 9px;
+  }
+  
+  .thumbnail {
+    height: 350px;
+    width: 300px;
+    border-radius: 19px;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 10px 10px;
+  
+  }
+  
+  .card {
+    border-radius: 19px;
+    padding: 15px;
+    text-align: center;
+    background-color: #151f30;
+  }
+  
+  /* custom change */
+  .center-content {
+    text-align: center;
+  }
