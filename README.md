@@ -17,7 +17,6 @@ Originally developed using two separate Replit workspaces for easy deployment an
   - Add a new review (username + review text)  
   - Edit or delete existing reviews  
 - **Responsive, Clean UI**  
-  Works seamlessly on desktop and mobile devices.
 
 ---
 
