@@ -116,6 +116,9 @@ npm install -g serve
 # Results:
 <img width="940" height="887" alt="image" src="https://github.com/user-attachments/assets/7850b4cd-05a9-4da9-8232-8856659a4efa" /><br>
 ---
-<img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/d1772c36-beab-4838-abba-4eb154b8490a" />
+<img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/d1772c36-beab-4838-abba-4eb154b8490a" /><br>
+---
+<img width="940" height="887" alt="image" src="https://github.com/user-attachments/assets/c22dbc15-5218-4b6c-ba39-d126cdfadcc1" />
+
 
 
