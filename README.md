@@ -112,8 +112,7 @@ npm install -g serve
   ```
     - Here we have used POST request to feed the information to our database, we can also use GET,PUT,DELETE,etc for          their respective purposes.
   
-
-
+---
 
 # Results:
 <img width="940" height="887" alt="image" src="https://github.com/user-attachments/assets/7850b4cd-05a9-4da9-8232-8856659a4efa" /><br>
