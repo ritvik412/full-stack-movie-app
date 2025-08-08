@@ -119,6 +119,13 @@ npm install -g serve
 <img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/d1772c36-beab-4838-abba-4eb154b8490a" /><br>
 ---
 <img width="940" height="887" alt="image" src="https://github.com/user-attachments/assets/c22dbc15-5218-4b6c-ba39-d126cdfadcc1" />
+---
+
+## *My Full Replit codebase is available here*:
+
+- [Frontend Movie App](https://replit.com/@RitvikShrivasta/Frontend-Movie-App)
+- [Backend Reviews](https://replit.com/@RitvikShrivasta/BackendReviews)
+
 
 
 
